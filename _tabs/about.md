@@ -6,7 +6,7 @@ order: 4
 
 I am a developer working in UiPath Romania and I build resilient and scalable systems for a living.
 
-My technical & general interests are
+My technical and general interests are
 * Golang
 * Rust
 * Java / Kotlin
